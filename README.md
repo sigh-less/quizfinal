@@ -1,2 +1,2 @@
 # quizfinal
-Previous does not render images properly on live site; trying clean repo. 
+Previous repo does not render images properly on github live site; using this clean repo if curious about change history. 
