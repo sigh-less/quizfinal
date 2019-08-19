@@ -163,7 +163,7 @@ p {
   box-shadow: 0 3px #27496d;
 }
 
-@media screen and (max-width: 480px) { 
+@media screen and (max-width: 520px) { 
   .question-count{
     font-size: 14px;
   }
