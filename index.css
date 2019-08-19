@@ -162,3 +162,28 @@ p {
   border-radius: 10px;
   box-shadow: 0 3px #27496d;
 }
+
+@media screen and (max-width: 480px) { 
+  .question-count{
+    font-size: 14px;
+  }
+  
+  .score-card{
+    position: absolute;
+    right: 0px;
+    top: 25px;
+    font-weight: bold;
+    font-size: 14px;
+   }
+
+  .questions-form p{
+    font-size: 14px;
+  }
+
+  .logo-img{
+    width: 80px;
+    height: 35px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+}
