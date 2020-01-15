@@ -1,4 +1,4 @@
 # quizfinal
-This is my Quiz Final for interactive web apps. 
+Quiz consisting of 10 questions on Nintendo Trivia. Feel free to take the quiz
 
-Note to myself: Look at other quiz repo for older history, as something with the github live pages did not load the pics properly so I used a new repo. 
+This is our first project through the Thinkful course to demonstrate knowledge of basic HTML, CSS and Javascript concepts.
